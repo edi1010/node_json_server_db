@@ -1,0 +1,66 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Torres",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "ReactJS"
+        },
+        {
+          "nombre": "Javascript"
+        }
+      ],
+      "id": "1b8d"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 14,
+      "id": "360d"
+    },
+    {
+      "nombre": "Alberto",
+      "apellido": "Mendoza",
+      "promedio": 16,
+      "id": "b18b"
+    },
+    {
+      "id": "9429",
+      "nombre": "Paul",
+      "apellido": "Vega",
+      "promedio": 13
+    },
+    {
+      "id": "70c7",
+      "nombre": "Fiorella",
+      "apellido": "Romero",
+      "promedio": 17
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "2c1c"
+    },
+    {
+      "nombre": "ReactJS",
+      "duracion": 8,
+      "dificultad": "Intermedia",
+      "id": "039c"
+    },
+    {
+      "nombre": "Angular 17",
+      "duracion": 8,
+      "dificultad": "Alta",
+      "id": "31f3"
+    }
+  ]
+}
